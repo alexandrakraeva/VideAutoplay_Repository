@@ -1,0 +1,12 @@
+﻿body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+#Cartoon {
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    object-fit: cover;
+}

@@ -11,6 +11,6 @@
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)index.html" />
     <None Include="$(MSBuildThisFileDirectory)styles.css" />
-    <None Include="$(MSBuildThisFileDirectory)EmptyJSFile.js" />
+    <None Include="$(MSBuildThisFileDirectory)script.js" />
   </ItemGroup>
 </Project>
